@@ -28,6 +28,7 @@ shadow.
 Example:
 
 [//]: # (custom-element)
+
 ```html
 <paper-button>Flat button</paper-button>
 <paper-button raised>Raised button</paper-button>
