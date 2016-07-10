@@ -27,8 +27,21 @@ shadow.
 
 Example:
 
-[//]: # (custom-element)
-
+<!---
+```html
+<custom-element-demo width="500" height="500">
+  <template>
+    <script src="../../webcomponentsjs/webcomponents-lite.js"></script>
+    <link rel="import" href="../../iron-demo-helpers/demo-snippet.html">
+    <link rel="import" href="../../iron-demo-helpers/demo-pages-shared-styles.html">
+    <link rel="import" href="../../iron-icons/iron-icons.html">
+    <link rel="import" href="../../paper-styles/color.html">
+    <link rel="import" href="../paper-button.html">
+    <next-code-block></next-code-block>
+  </template>
+</custom-element-demo>
+```
+-->
 ```html
 <paper-button>Flat button</paper-button>
 <paper-button raised>Raised button</paper-button>
