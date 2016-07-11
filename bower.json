@@ -16,10 +16,10 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/paper-button.git"
+    "url": "git://github.com/samuelli/paper-button.git"
   },
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/PolymerElements/paper-button",
+  "homepage": "https://github.com/samuelli/paper-button",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.1.0",
     "iron-flex-layout": "PolymerElements/iron-flex-layout#^1.0.0",
