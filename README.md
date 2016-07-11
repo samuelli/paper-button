@@ -36,7 +36,7 @@ Example:
     <link rel="import" href="../iron-demo-helpers/demo-pages-shared-styles.html">
     <link rel="import" href="../iron-icons/iron-icons.html">
     <link rel="import" href="../paper-styles/color.html">
-    <link rel="import" href="paper-button.html">
+    <link rel="import" href="../paper-button/paper-button.html">
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
